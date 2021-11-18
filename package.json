@@ -1,0 +1,23 @@
+{
+  "name": "ghibli-movie-watcher-api",
+  "version": "1.0.0",
+  "description": "Ghibli Movie Watcher API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamabhas/ghibli-movie-watcher-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamabhas/ghibli-movie-watcher-api/issues"
+  },
+  "homepage": "https://github.com/iamabhas/ghibli-movie-watcher-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

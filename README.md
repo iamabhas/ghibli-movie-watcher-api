@@ -1,2 +1,2 @@
-# ghibli-movie-watcher-api
-Ghibli Movie Watcher API
+# ghibli-movie-watcher
+use api -> https://ghibli-movie-watcher-api.herokuapp.com/ghibli_movies
